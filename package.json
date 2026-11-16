@@ -1,0 +1,7 @@
+{
+  "name": "feather-kitchen",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Feather Kitchen — the flock's shared cookbook",
+  "main": "api.js"
+}
